@@ -121,6 +121,7 @@ company-knowledge-assistant/
 **Pratik Inkar**
 
 GitHub: https://github.com/pratikinkar
+Live Demo: https://company-knowledge-assistant-l5uxul8micudas2xdezblq.streamlit.app/
 
 ---
 
