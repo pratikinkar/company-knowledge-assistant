@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Company Knowledge Assistant
 
 An AI-powered document question-answering application built using Retrieval-Augmented Generation (RAG). Users can upload PDF documents and ask questions in natural language to receive context-aware answers.
@@ -124,3 +125,4 @@ GitHub: https://github.com/pratikinkar
 ---
 
 *Note: The included company information is synthetic demonstration data for learning and testing purposes.*
+=======
