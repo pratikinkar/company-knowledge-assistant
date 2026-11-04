@@ -1,0 +1,22 @@
+
+Company Name: Websums Analytics Demo
+
+Department: Data Analytics
+
+Business Overview:
+The company provides data analytics and reporting services to clients.
+
+Sales Information:
+The sales team recorded 1200 orders in September 2026.
+Total revenue for September 2026 was 600000 INR.
+The highest-selling product category was Electronics.
+The customer satisfaction score was 88 percent.
+
+Employee Information:
+The analytics department has 12 employees.
+The sales department has 18 employees.
+
+Business Rules:
+Monthly revenue is calculated by adding the value of all completed orders.
+Cancelled orders should not be included in total revenue.
+Customer satisfaction is measured using survey responses.
